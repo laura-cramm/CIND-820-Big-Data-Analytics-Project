@@ -5,15 +5,15 @@ The proposed objective of this big data analytics project is to investigate the 
 The research questions of this project are as follows: 
 
     1. Are people who were infected with COVID-19 more likely to have been
-diagnosed with a depressive disorder?
+    diagnosed with a depressive disorder?
 
     2. Are people who were infected with COVID-19 more likely to self-report that
-during the past 30 days their mental health (including stress, depression, and
-problems with emotions) was ‘not good’?
+    during the past 30 days their mental health (including stress, depression, and
+    problems with emotions) was ‘not good’?
 
     3. Are adults over the age of 45 who were infected with COVID-19 more likely to
-experience confusion or memory loss that is happening more often or is getting
-worse?
+    experience confusion or memory loss that is happening more often or is getting
+    worse?
 
 In the 2022 BRFSS dataset, the primary exposure variable of interest is <b> COVIDPOS </b>, which is a categorical variable representing the answer to the question: <i> Has a doctor, nurse, or other health professional ever told you that you tested positive for COVID 19? </i> 
 
