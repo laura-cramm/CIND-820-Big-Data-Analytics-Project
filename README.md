@@ -1,8 +1,6 @@
 # CIND-820-Big-Data-Analytics-Project
 
-The objective of this big data analytics project is to identify the key variables that predict long-term outcomes in people infected with COVID-19 using Behavioural Risk Factor Surveillance System (BRFSS) data. BRFSS data is collected annually by the U.S. Centers of Disease Control and Prevention; residents of the 50 states, the District of Columbia, Guam, Puerto Rico, and the Virigin Islands participate in telephone surveys. 
-
-The research questions of this project are as follows: 
+The objective of this big data analytics project is to identify the key variables that predict long-term outcomes of adult U.S. residents who developed COVID-19 before February 2023. Behavioural Risk Factor Surveillance System (BRFSS) data is collected annually by the U.S. Centers of Disease Control and Prevention; residents of the 50 states, the District of Columbia, Guam, Puerto Rico, and the Virigin Islands participate in telephone surveys. BRFSS survey data which was collected between January 2022 and February 2023 will be used to investigate the following three research questions:  
 
     1.	What factors predict symptoms lasting three months or longer following a COVID-19 infection? 
     2.	Among people who tested positive for COVID-19, what key variables predict frequent mental distress? 
