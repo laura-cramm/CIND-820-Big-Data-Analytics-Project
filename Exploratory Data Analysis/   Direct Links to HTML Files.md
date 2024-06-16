@@ -1,4 +1,4 @@
-[Click here to access the EDA report](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/Exploratory%20Data%20Analysis/exploratory_data_analysis_core_modules.html)
+[Click here to access the EDA report](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/Exploratory%20Data%20Analysis/exploratory_data_analysis_minimal_report.html)
 
 Please note that the EDA report may take a few moments to load in your browser. 
 
