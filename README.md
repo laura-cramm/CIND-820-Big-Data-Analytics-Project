@@ -43,7 +43,7 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
         * The 'Evaluating_models_using_test_data' notebook, which contains the steps executed to evaluate model performance on the test data set <br>
     <b>HTML Files folder: </b>
             * Contains the .ipynb files converted to .html <br>
-<b> 3. Working Dataset folder: </b>
+<b> 3. Working Dataset folder: </b> <br> 
     * Contains the working dataset as both .csv and pickle files 
 
 
