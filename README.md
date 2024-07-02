@@ -24,12 +24,12 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
 * The F2-score is currently quite low (apprx. 49%); measures to improve this metric will be investigated. <br>
 * This process will be repeated for both research question two and research question three. 
 
-<b>Content of the Repository: </b>
+<b>Content of the Repository: </b> <br>
 <b>1. Exploratory Data Analysis folder:</b> <br>
-    * Contains the EDA report (minimal version as an .html file, full version compressed as a .zip file)  <br>
-    * The Python code that was used to generate the EDA report in an .ipynb file <br>
-    * The codebook for the BRFSS dataset as an .html file <br>
-    * Direct links to the .html files 
+        * Contains the EDA report (minimal version as an .html file, full version compressed as a .zip file)  <br>
+        * The Python code that was used to generate the EDA report in an .ipynb file <br>
+        * The codebook for the BRFSS dataset as an .html file <br>
+        * Direct links to the .html files 
 
 <b>2. Initial Code folder:</b>
    * The 'Initial Data Preparation' python notebook, which contains the code to clean the BRFSS dataset for analysis 
