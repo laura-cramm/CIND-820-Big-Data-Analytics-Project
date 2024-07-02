@@ -8,11 +8,11 @@ The objective of this big data analytics project is to identify the key variable
 
 The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </b>, and <b> DECIDE </b>, which represent the answers to the questions <i>Did you have any symptoms lasting 3 months or longer that you did not have prior to having coronavirus or COVID-19? </i>, <i>Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?</i>, and <i> Because of a physical, mental, or emotional condition, do you have serious difficulty concentrating, remembering, or making decisions? </i>, respectively. The <b> MENTHLTH </b> variable will be dichotimized using a threshold of 14 days, as 14 or more days of mentally unhealthy days is commonly used as a measure of frequent mental distress, which is associated with mental disorders. 
 
-<b>Current State of the Project: </b>
+##Current State of the Project: 
 1. The initial exploratory data analysis has been conducted, and an EDA report has been generated
 2. The BRFSS dataset has been cleaned; all attributes have been converted to the appropriate data type and missing values have been correctly encoded.
 3. Research question one:
-   <br>The data has been split into the training/validation set and the test set 
+   <br> *The data has been split into the training/validation set and the test set 
    <br>Zero variance attributes and attributes with over 10% missing data have been removed from the dataset 
    <br>The training/validation dataset has been split five-fold for the sliding window validation 
    <br>Missing data was imputed, standardization of numeric variables was performed, multicollinearity was assessed using VIF values and highly correlated variables were addressed, and the SMOTE algorithm was applied to address imbalanced
