@@ -42,7 +42,7 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
         * The 'Grid_Search_Results' notebook, which contains the code to combine the F2-scores from each of the five sliding windows and to choose the optimal model hyperparameters. 
         * The 'Evaluating_models_using_test_data' notebook, which contains the steps executed to evaluate model performance on the test data set <br>
     <b>HTML Files folder: </b>
-        * Contains the .ipynb files converted to .html
+            * Contains the .ipynb files converted to .html <br>
 <b> 3. Working Dataset folder: </b>
     * Contains the working dataset as both .csv and pickle files 
 
