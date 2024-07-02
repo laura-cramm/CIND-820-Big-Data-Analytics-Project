@@ -32,7 +32,7 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
         * Direct links to the .html files 
 
 <b>2. Initial Code folder:</b>
-   * The 'Initial Data Preparation' python notebook, which contains the code to clean the BRFSS dataset for analysis 
+   * The 'Initial Data Preparation' python notebook, which contains the code to clean the BRFSS dataset for analysis <br> 
     Research Question One folder:
         * The "Train_Test_Split" notebook, which contains the code to split the BRFSS dataset into training/validation and test sets 
         * The "Removing_low_variance_&_high_missing_data_attributes" notebook, which contains the code to remove low variance attributes and attributes with over 10% missing data 
