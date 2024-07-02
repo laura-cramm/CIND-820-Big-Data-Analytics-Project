@@ -21,14 +21,14 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
     employed. 
    * Each of the four models was run on the test data set. Confusion matrices were generated, and the model with the highest F2-score was identified. 
 
--The F2-score is currently quite low (apprx. 49%); measures to improve this metric will be investigated. 
--This process will be repeated for both research question two and research question three. 
+* The F2-score is currently quite low (apprx. 49%); measures to improve this metric will be investigated. <br>
+* This process will be repeated for both research question two and research question three. 
 
 <b>Content of the Repository: </b>
-<b>1. Exploratory Data Analysis folder:</b>
-    * Contains the EDA report (minimal version as an .html file, full version compressed as a .zip file)
-    * The Python code that was used to generate the EDA report in an .ipynb file 
-    * The codebook for the BRFSS dataset as an .html file 
+<b>1. Exploratory Data Analysis folder:</b> <br>
+    * Contains the EDA report (minimal version as an .html file, full version compressed as a .zip file)  <br>
+    * The Python code that was used to generate the EDA report in an .ipynb file <br>
+    * The codebook for the BRFSS dataset as an .html file <br>
     * Direct links to the .html files 
 
 <b>2. Initial Code folder:</b>
