@@ -11,7 +11,7 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
 <b>Current State of the Project: </b>
 1. The initial exploratory data analysis has been conducted, and an EDA report has been generated
 2. The BRFSS dataset has been cleaned; all attributes have been converted to the appropriate data type and missing values have been correctly encoded.
-3. Research question one:
+3. <b>Research question one: </b>
    * The data has been split into the training/validation set and the test set 
    * Zero variance attributes and attributes with over 10% missing data have been removed from the dataset 
    * The training/validation dataset has been split five-fold for the sliding window validation 
