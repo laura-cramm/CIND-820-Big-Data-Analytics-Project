@@ -26,10 +26,10 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
 
 <b>Content of the Repository: </b> <br>
 <b>1. Exploratory Data Analysis folder:</b> <br>
-        * Contains the EDA report (minimal version as an .html file, full version compressed as a .zip file)  <br>
-        * The Python code that was used to generate the EDA report in an .ipynb file <br>
-        * The codebook for the BRFSS dataset as an .html file <br>
-        * Direct links to the .html files 
+    * Contains the EDA report (minimal version as an .html file, full version compressed as a .zip file)  <br>
+    * The Python code that was used to generate the EDA report in an .ipynb file <br>
+    * The codebook for the BRFSS dataset as an .html file <br>
+    * Direct links to the .html files 
 
 <b>2. Initial Code folder:</b>
    * The 'Initial Data Preparation' python notebook, which contains the code to clean the BRFSS dataset for analysis <br> 
@@ -42,7 +42,9 @@ The primary outcome variables of interest are <b> COVIDSMP </b>, <b> MENTHLTH </
         * The 'Grid_Search_Results' notebook, which contains the code to combine the F2-scores from each of the five sliding windows and to choose the optimal model hyperparameters. 
         * The 'Evaluating_models_using_test_data' notebook, which contains the steps executed to evaluate model performance on the test data set <br>
     <b>HTML Files folder: </b>
-        * Contains the .ipynb files converted to .html 
+        * Contains the .ipynb files converted to .html
+<b> 3. Working Dataset folder: </b>
+    * Contains the working dataset as both .csv and pickle files 
 
 
 
