@@ -14,6 +14,7 @@ Research Question One
 [Click here to access the Q1_Evaluating_models_using_test_data file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/%20%20Research%20Question%20One/Q1_Evaluating_models_using_test_data.html )  <br>
 
 Research Question Two 
+
 [Click here to access the Q2_Train_Test_Split file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/%20Research%20Question%20Two/%20%20%20%20%20%20%20%20%20%20Q2_Train_Test_Split.html)  <br>
 [Click here to access the Q2_Removing_low_variance_&_high_missing_data_attributes file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/%20Research%20Question%20Two/%20%20%20%20%20%20%20%20%20Q2_Removing_low_variance_%26_high_missing_data_attributes.html )  <br>
 [Click here to access the Q2_Splitting_Data_for_Sliding_Window_Cross_Validation file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/%20Research%20Question%20Two/%20%20%20%20%20%20%20%20Q2_Splitting_Data_for_Sliding_Window_Cross_Validation.html )  <br>
@@ -26,6 +27,7 @@ Research Question Two
 [Click here to access the Q2_Evaluating_models_using_test_data file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/%20Research%20Question%20Two/Q2_Evaluating_models_using_test_data.html )  <br>
 
 Research Question Three
+
 [Click here to access the Q3_Train_Test_Split file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/Research%20Question%20Three/%20%20%20%20%20%20%20%20%20%20Q3_Train_Test_Split.html)  <br>
 [Click here to access the Q3_Removing_low_variance_&_high_missing_data_attributes file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/Research%20Question%20Three/%20%20%20%20%20%20%20%20%20Q3_Removing_low_variance_%26_high_missing_data_attributes.html )  <br>
 [Click here to access the Q3_Splitting_Data_for_Sliding_Window_Cross_Validation file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/Research%20Question%20Three/%20%20%20%20%20%20%20%20Q3_Splitting_Data_for_Sliding_Window_Cross_Validation.html )  <br>
