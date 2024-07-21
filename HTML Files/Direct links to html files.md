@@ -1,0 +1,1 @@
+[Click here to access the Initial Data Preparation file](https://htmlpreview.github.io/?https://github.com/laura-cramm/CIND-820-Big-Data-Analytics-Project/blob/main/HTML%20Files/Initial%20Data%20Preparation.html)
